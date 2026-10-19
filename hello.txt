@@ -6,3 +6,4 @@ hello git!
 我现在有修改了一行！ hot-fix test
 我在github里修改了
 我添加了SSH免密登录！
+hello
